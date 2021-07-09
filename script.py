@@ -2,7 +2,7 @@ class script(object):
 
     START_TEXT = """<b>Hai ,
     
-I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
+I'm downloader bot working for niaz cloud leech zone
 
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
@@ -21,15 +21,15 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : Zee5 DOWNLOADER BOT</b>
+    ABOUT_TEXT = """⭕️<b>My Name : Akhari kito</b>
 
-⭕️<b>Creater :</b> @Ninja8bpYt
+⭕️<b>Creater :</b> @bearzap
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/ninja8bpyt/Zee5-Downloader'>Click Here</a>"""
+
 
 
 
@@ -41,9 +41,9 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @mr_ninjas_bot"
+    UPGRADE_TEXT = "PING at @bearzap
     
-    DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
+    DOWNLOAD_START = "Downloading ⬇️"
     
     UPLOAD_START = "Uploading Now ⬆️"
     
