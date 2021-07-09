@@ -1,13 +1,13 @@
 {
-  "name": "Zee5 DL",
-  "description": "Zee5 Downloader",
+  "name": "Tanwi",
+  "description": "Tanwi",
   "keywords": [
     "telegram",
     "zee5",
     "downloader"
   ],
 
-  "repository": "https://github.com/TroJanzHEX/Zee5-Downloader",
+  
   
   "env": {
     "WEBHOOK": {
